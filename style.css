@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.selection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40vw;
+    height: 20vh;
+}
+
+.selection h3{
+    font-size: 40px;
+}
